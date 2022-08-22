@@ -6,8 +6,8 @@
 | Data | Conteúdo Programático | Notas de Aula |
 | --- | --- | --- |
 | 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Ambiente de programação | [Programando em Python com Google Colab](aula-00.ipynb) |
-| 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Introdução à computação | [Resolução de equações em Python](aula-01.ipynb) |
-| 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Tipos de dados, Variáveis e Objetos | [Introdução](aula-02.ipynb) e [Variáveis](aula-03.ipynb) |
+| 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Introdução à computação | [Introdução](aula-01.ipynb) |
+| 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Tipos de dados, Variáveis e Objetos | [Variáveis](aula-02.ipynb) |
 | 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Operadores e Expressões relacionais e lógicas | [Lógica](aula-04.ipynb) |
 | 22/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Operadores e Expressões relacionais e lógicas | [Fazer exercícios da Lista 1](lista-01.ipynb) |
 | 29/08| ELEMENTOS BÁSICOS DA LINGUAGEM: Estruturas de controle condicional | [if-elif-else](aula-05.ipynb) |
